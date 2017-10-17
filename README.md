@@ -1,10 +1,10 @@
-# 9th International Workshop on Joint Cloud Computing (JCC 2018)
-
 # The Ninth International Workshop on Joint Cloud Computing (JCC2018) 
- 
-** To be held in Bamberg, Germany, March 26 – 29, 2018. **
 
-** Co-located with [SOSE 2018](http://sose-conference.net) **
+
+**To be held in Bamberg, Germany, March 26 – 29, 2018.**
+
+
+**Co-located with [SOSE 2018](http://sose-conference.net)**
 
 ## Call For Papers
 
@@ -59,7 +59,7 @@ Cloud 2.0, JointCloud not only focuses on a vertical integration of
 cloud resources but also expects a horizontal cooperation between cloud
 providers in the form of service-oriented computing. 
 
-** Topics of interest. **
+### Topics of interest.
 
 This workshop aims at soliciting innovative research findings in joint
 cloud computing. Topics of interest for technical papers include, but
@@ -76,14 +76,14 @@ are not limited to:
 * Applications of joint cloud computing
 * Joint cloud computing architecture and economics  
 
-** Important Dates **
+### Important Dates
 
 * October 20, 2017: Call-for-paper announcement available for publicity  
 * December1, 2017: Deadline for paper submission  
 * January 15, 2018: Notification of acceptance  
 * February 1, 2018: Camera-ready of all accepted papers due  
 
-** Paper Submission Guidelines **
+### Paper Submission Guidelines
 
 All papers need to be submitted electronically using the EasyChair
 conference system with PDF format. The materials presented in the papers
