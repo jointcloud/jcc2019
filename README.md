@@ -1,10 +1,6 @@
-# The Ninth International Workshop on Joint Cloud Computing (JCC2018) 
+# The 9th International Workshop on Joint Cloud Computing (JCC2018) 
 
-
-**To be held in Bamberg, Germany, March 26 – 29, 2018.**
-
-
-**Co-located with [SOSE 2018](http://sose-conference.net)**
+**Co-located with [SOSE 2018](http://sose-conference.net)**, to be held in Bamberg, Germany, March 26 – 29, 2018.**
 
 ## Call For Papers
 
@@ -35,19 +31,19 @@ services is highly urged.
 
 To address these challenges, both academia and industry have started to
 consider the federation and collaboration between individual clouds
-(referred to as Cloud 2.0 in this proposal). The key feature of Cloud
+(referred to as Cloud 2.0). The key feature of Cloud
 2.0 is to eliminate the barrier among multiple clouds via joint cloud
 computing. For example, researchers from Europe have coined the concept
 of SuperCloud to enable cross-cloud computation migration. Cisco
 advocates their Intercloud Fabric to enable transparent communication
-across clouds. Chinese researchers have proposed Internet-based virtual
-computing environment (iVCE) to provide harmonious, trustworthy and
+across clouds. Chinese researchers have proposed **Internet-based virtual
+computing environment (iVCE)** to provide harmonious, trustworthy and
 transparent integrated services based on open infrastructures across
 multiple datacenters and cloud providers. Researchers have also explored
 the economy of various resource prices in different clouds to save the
 cost by using cost-aware cross- cloud services.  
 
-Joint cloud computing (a.k.a. JointCloud) is a new generation of
+**Joint cloud computing** (a.k.a. **JointCloud**) is a new generation of
 computing model for Cloud 2.0, which facilitates developers to customize
 cross-cloud services by means of “software definition” based on the
 integration and cooperation among cloud service entities. The goal of
@@ -78,10 +74,11 @@ are not limited to:
 
 ### Important Dates
 
-* October 20, 2017: Call-for-paper announcement available for publicity  
-* December1, 2017: Deadline for paper submission  
-* January 15, 2018: Notification of acceptance  
-* February 1, 2018: Camera-ready of all accepted papers due  
+* October 20, 2017 : Call-for-paper announcement available for publicity 
+* November 20, 2017 : Deadline for abstract submission
+* December 1, 2017 : Deadline for paper submission 
+* January 15, 2018 : Notification of acceptance 
+* February 1, 2018 : Camera-ready of all accepted papers due  
 
 ### Paper Submission Guidelines
 
@@ -92,7 +89,7 @@ suggested to have 6 - 10 pages including figures and references using
 IEEE Computer Society Proceedings Manuscripts style (two columns,
 single-spaced, 10 fonts). You can confirm the IEEE Computer Society
 Proceedings Author Guidelines at the following web page:
-https://www.ieee.org/conferences_events/conferences/publishing/templates.html
+[https://www.ieee.org/conferences_events/conferences/publishing/templates.html](https://www.ieee.org/conferences_events/conferences/publishing/templates.html)
 
 For each accepted paper, at least one of the authors should be
 registered and present the paper on the workshop. The paper will be
@@ -100,5 +97,52 @@ included in the conference proceedings and will be submitted for
 inclusion to IEEE Xplore as well as other Abstracting and Indexing (A&I)
 databases.
 
-Paper submission links: https://easychair.org/conferences/?conf=jcc2018
+Paper submission links: [https://easychair.org/conferences/?conf=jcc2018](https://easychair.org/conferences/?conf=jcc2018)
 
+## Organizers
+
+### Steering Committee
+
+* Huaimin Wang, National University of Defense Technology, China
+* Jie Xu, University of Leeds, UK
+* Jun Li, Tsinghua University, China
+* Yijie Wang, National University of Defense Technology, China
+* Haibo Chen, Shanghai Jiao Tong University, China
+* Donggang Cao, Peking University, China
+
+
+### Program Committee
+
+**Chairs:**
+
+* [Yongqiang Lyu](mailto:luyq@tsinghua.edu.cn), Tsinghua University 
+* [Donggang Cao](mailto:caodg@pku.edu.cn), Peking University
+
+**Members:**
+
+* Vitaly Antonenko, Moscow State University
+* Haibo Chen, Shanghai Jiao Tong University
+* John Davies, University of Leeds UK
+* Tian Guo, Worcester Polytechnic Institute
+* Chunming Hu, Beihang University
+* Geyong Min, University of Exeter
+* Dapeng Oliver Wu, University of Florida
+* Paul Townend, University of Leeds, UK
+* Yijie Wang, National University of Defense Technology
+* Wei Wang, Chinese Academy of Science
+* ZiBing Zheng, Sun Yat-sen University
+
+## History
+
+The previous edition of the workshop (2009-2015) is called “Workshop on
+Internet-based Virtual Computing Environment” (iVCE). The preceding
+workshops were held in :
+
+* 2017 (Atlanta, USA)
+* 2015 (San Francisco, USA)
+* 2014 (Oxford, UK) 
+* 2013 (San Francisco, USA)
+* 2012 (Shenzhen, China)
+* 2011 (Hong Kong, China) 
+* 2010 (Shanghai, China)
+* 2009 (Shenzhen, China)
