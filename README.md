@@ -138,7 +138,7 @@ The previous edition of the workshop (2009-2015) is called “Workshop on
 Internet-based Virtual Computing Environment” (iVCE). The preceding
 workshops were held in :
 
-* 2017 (Atlanta, USA)
+* [2017](http://nicexlab.com/JCC2017.htm) (Atlanta, USA)
 * 2015 (San Francisco, USA)
 * 2014 (Oxford, UK) 
 * 2013 (San Francisco, USA)
