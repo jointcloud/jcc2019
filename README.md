@@ -1,6 +1,6 @@
-# The 9th International Workshop on Joint Cloud Computing (JCC2018) 
+**The 9th International Workshop on Joint Cloud Computing (JCC2018)**
 
-**Co-located with [SOSE 2018](http://sose-conference.net)**, to be held in Bamberg, Germany, March 26 – 29, 2018.**
+**Co-located with [SOSE 2018](http://sose-conference.net), to be held in Bamberg, Germany, March 26 – 29, 2018.**
 
 ## Call For Papers
 
