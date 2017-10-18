@@ -85,7 +85,7 @@ are not limited to:
 All papers need to be submitted electronically using the EasyChair
 conference system with PDF format. The materials presented in the papers
 should not be published or under submission elsewhere. Each paper is
-suggested to have 6 - 10 pages including figures and references using
+suggested to have not more than 6 pages including figures and references using
 IEEE Computer Society Proceedings Manuscripts style (two columns,
 single-spaced, 10 fonts). You can confirm the IEEE Computer Society
 Proceedings Author Guidelines at the following web page:
