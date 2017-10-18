@@ -61,7 +61,7 @@ This workshop aims at soliciting innovative research findings in joint
 cloud computing. Topics of interest for technical papers include, but
 are not limited to: 
 
-* Resource Management of Internet-based virtual computing environment (IVCE)
+* Resource Management of Internet-based virtual computing environment (iVCE)
 * Elastic scheduling and allocation of cloud-crossing resources
 * Cloud-crossing virtualization, management, sharing, interaction and collaboration  
 * Reliability, availability, consistency, trust and security of joint cloud computing 
