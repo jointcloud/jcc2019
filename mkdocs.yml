@@ -1,0 +1,23 @@
+site_name: "JCC2018"
+site_author: "Joint Cloud Computing Team"
+site_description: "The 9th International Workshop on Joint Cloud Computing (JCC2018)"
+
+pages:
+- Home: index.md
+- Call For Papers: cfp.md
+- Organizers: organizers.md
+
+#copyright: "&#169; Donggang Cao"
+
+repo_url: https://github.com/jointcloud/jcc2018.git
+
+#theme: 'bootstrap'
+
+theme_dir: 'bootstrap'
+
+markdown_extensions:
+ - admonition
+    #- nl2br
+
+extra_css:
+  - css/custom.css
