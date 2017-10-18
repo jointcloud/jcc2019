@@ -2,7 +2,7 @@
 
 **Co-located with [SOSE 2018](http://sose-conference.net), to be held in Bamberg, Germany, March 26 – 29, 2018.**
 
-## Call For Papers
+## Background
 
 Cloud computing holds the promise of “computing as a utility”, where
 users can access services from everywhere in a “pay-as-you-go” fashion.
@@ -55,7 +55,7 @@ Cloud 2.0, JointCloud not only focuses on a vertical integration of
 cloud resources but also expects a horizontal cooperation between cloud
 providers in the form of service-oriented computing. 
 
-### Topics of interest.
+## Call For Papers
 
 This workshop aims at soliciting innovative research findings in joint
 cloud computing. Topics of interest for technical papers include, but
