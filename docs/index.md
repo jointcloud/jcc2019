@@ -1,75 +1,216 @@
-# The 9th International Workshop on Joint Cloud Computing (JCC2018)
+<div class="jumbotron">
+        <h1>JCC 2018</h1>
+        <h2>the 9th International Workshop on Joint Cloud Computing</h1>
+        <br>
+        <h4>March 26 – 29, 2018, Bamberg, Germany</h4>
+        <p>colocated with <a
+        href="http://sose-conference.net">SOSE 2018</a></p>
+        <br>
+        <p> <a class="btn btn-primary btn-lg" href="/cfp" role="button">
+        <i class="fa fa-paper-plane" aria-hidden="true"></i>
+        Call for papers</a>
+        &nbsp; &nbsp;&nbsp; 
+        <a class="btn btn-default btn-lg"
+        href="https://easychair.org/conferences/?conf=jcc2018" role="button">
+        <i class="fa fa-cloud-upload" aria-hidden="true"></i>
+        Submit a paper</a>  </p>
 
-**Co-located with [SOSE 2018](http://sose-conference.net), to be held in Bamberg, Germany, March 26 – 29, 2018.**
+        <br>
+        <p>Exploring cloud 2.0 and beyond</p>
 
-<div class="alert alert-info">
-Note: JCC2018 <a href="cfp/index.html">Call For Papers</a> has been published. 
 </div>
 
-## Background
 
-Cloud computing holds the promise of “computing as a utility”, where
-users can access services from everywhere in a “pay-as-you-go” fashion.
-Enabled by cloud computing, developers are no longer required to
-purchase and maintain hardware to deploy their software and services,
-which has rapidly changed the IT industry and shaped the way how
-software is designed and delivered. The first-generation cloud (referred
-to as Cloud 1.0 in this proposal) mainly focuses on aggregating
-large-scale IT resources into a single cloud and providing well-managed,
-auto-provisioned resources and services. In Cloud 1.0, various forms of
-computing paradigms, such as Infrastructure as a Service (IaaS),
-Platform as a Service (PaaS) and Software as a Service (SaaS), have
-achieved remarkable.  However, there has recently been new challenges
-emerging to cloud computing. First, globalized ecommerce has largely
-redefined the requirements on cloud computing, and more collaboration is
-required between individual clouds due to service combination and
-location-sensitive computation. Second, many cloud-based businesses are
-experiencing a burst of computation. For example, events like “November
-11” and “Black Friday” usually require over 10x more resources than
-daily operations, creating exhausted pressure to any single cloud
-provider. Finally, the emerging big data and blockchain applications
-have brought great challenges to cloud computing performance and
-provider-cross service collaborations. In this scenario, not only the
-performance and ease-of-use, but also the trustworthiness of the
-services is highly urged.
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                    <span class="fa-stack fa-3x">
+                    <img src="../img/jcc.png" height="90%" alt="JCC img">
+                    </span>
+                <h2 class="index-feature">What is JCC</h2>
+                </div>
+            </p>
+            <p> 
+            Joint Cloud Computing (JCC) is a recent key project funded by <a href="http://www.most.gov.cn">China’s
+            Ministry of Science and Technology</a> as a part of the <b>National
+            Key Program for Cloud Computing and Big Data</b>.  <a
+            href="intro/">More»</a>
+            </p>
+ 
+        </div>
+ 
+        <div class="col-md-4">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                    <span class="fa-stack fa-3x"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-cloud fa-stack-1x fa-inverse"></i> </span>
+                <h2 class="index-feature">JCC Basic Idea</h2>
+                </div>
+            </p>
+            <p> 
+            JCC borrows
+            the ideas from airline alliances and aims at empowering the
+            <b>cooperation among various cloud vendors to provide
+            cross-cloud services</b> via <b>software definition</b>.
+            </p>
+        </div>
+        <div class="col-md-4">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                    <span class="fa-stack fa-3x"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-university fa-stack-1x fa-inverse"></i></span>
+                </div>
+                <h2 class="index-feature">JCC Project Team</h2>
+            </p>
+            <p> 
+            Including both top Chinese universities
+            like National University of Defense Technology, Tsinghua
+            University, Peking University, 
+            and major cloud vendors like <a
+            href="https://www.aliyun.com">AliCloud</a>, <a
+            href="https://www.ucloud.cn">UCloud</a>,
+            <a href="http://www.ksyun.com">JinShanCloud</a>. 
+            </p>
+        </div>
+    </div>
+</div>
 
-To address these challenges, both academia and industry have started to
-consider the federation and collaboration between individual clouds
-(referred to as Cloud 2.0). The key feature of Cloud
-2.0 is to eliminate the barrier among multiple clouds via joint cloud
-computing. For example, researchers from Europe have coined the concept
-of SuperCloud to enable cross-cloud computation migration. Cisco
-advocates their Intercloud Fabric to enable transparent communication
-across clouds. Chinese researchers have proposed **Internet-based virtual
-computing environment (iVCE)** to provide harmonious, trustworthy and
-transparent integrated services based on open infrastructures across
-multiple datacenters and cloud providers. Researchers have also explored
-the economy of various resource prices in different clouds to save the
-cost by using cost-aware cross- cloud services.  
 
-**Joint cloud computing** (a.k.a. **JointCloud**) is a new generation of
-computing model for Cloud 2.0, which facilitates developers to customize
-cross-cloud services by means of “software definition” based on the
-integration and cooperation among cloud service entities. The goal of
-the workshop for JointCloud is to investigate theories and methods of
-abstracting and aggregating cross-cloud resources, building integrated
-virtual private clouds, as well as exploring novel applications that
-leverage JointCloud. Compared to previous efforts in the category of
-Cloud 2.0, JointCloud not only focuses on a vertical integration of
-cloud resources but also expects a horizontal cooperation between cloud
-providers in the form of service-oriented computing. 
+<br>
 
-## History
+<div class="center-container">
+    <div class="row">
+        <a href="http://www.nudt.edu.cn">
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                    <span class="fa-stack fa-2x">
+                    <img src="../img/nudt.png" height="90%" alt="">
+                    </span>
+                <h5 class="index-feature">National University of Defense Technology</h5>
+                </div>
+            </p>
+        </div>
+        </a>
+        <a href="http://www.tsinghua.edu.cn">
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                    <span class="fa-stack fa-2x">
+                    <img src="../img/tsu.png" height="90%" alt="">
+                    </span>
+                <h5 class="index-feature">Tsinghua University</h5>
+                </div>
+            </p>
+        </div>
+        </a>
+        <a href="http://www.buaa.edu.cn">
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                    <span class="fa-stack fa-2x">
+                    <img src="../img/beihang.png" height="90%" alt="">
+                    </span>
+                <h5 class="index-feature">Beihang University</h5>
+                </div>
+            </p>
+        </div>
+        </a>
+        <a href="http://www.sjtu.edu.cn">
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                    <span class="fa-stack fa-2x">
+                    <img src="../img/sjtu.png" height="90%" alt="">
+                    </span>
+                <h5 class="index-feature">Shaohai Jiao Tong University</h5>
+                </div>
+            </p>
+        </div>
+        </a>
+        <a href="http://www.pku.edu.cn">
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                    <span class="fa-stack fa-2x">
+                    <img src="../img/pku.png" height="90%" alt="">
+                    </span>
+                <h5 class="index-feature">Peking University</h5>
+                </div>
+            </p>
+        </div>
+        </a>
+        <a href="http://www.sysu.edu.cn">
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                    <span class="fa-stack fa-2x">
+                    <img src="../img/zhongshan.png" height="90%" alt="">
+                    </span>
+                <h5 class="index-feature">Sun Yat-sen University</h5>
+                </div>
+            </p>
+        </div>
+        </a>
+    </div>
+</div>
 
-The previous edition of the workshop (2009-2015) is called “Workshop on
-Internet-based Virtual Computing Environment” (iVCE). The preceding
-workshops were held in :
-
-* [2017](http://nicexlab.com/JCC2017.htm) (Atlanta, USA)
-* 2015 (San Francisco, USA)
-* 2014 (Oxford, UK) 
-* 2013 (San Francisco, USA)
-* 2012 (Shenzhen, China)
-* 2011 (Hong Kong, China) 
-* 2010 (Shanghai, China)
-* 2009 (Shenzhen, China)
+<div class="center-container">
+    <div class="row">
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                <a href="http://www.iscas.cas.cn">
+                    <img src="../img/iscas.png" height="50" alt="">
+                </a>
+                </div>
+            </p>
+        </div>
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                <a href="https://www.aliyun.com">
+                    <img src="../img/aliyun.png" height="50" alt="">
+                </a>
+                </div>
+            </p>
+        </div>
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                <a href="https://www.ucloud.cn">
+                    <img src="../img/ucloud.png" height="50" alt="">
+                </a>
+                </div>
+            </p>
+        </div>
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                <a href="http://www.ksyun.com">
+                    <img src="../img/jinshan.png" height="50" alt="">
+                </a>
+                </div>
+            </p>
+        </div>
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                <a href="http://www.cert.org.cn">
+                    <img src="../img/cncert.png" height="50" alt="">
+                </a>
+                </div>
+            </p>
+        </div>
+        <div class="col-md-2">
+            <p  class="feature-link">
+                <div class="feature-icon feature-icon-static">
+                <a href="http://www.fnii.cn">
+                    <img src="../img/futurenet.png" height="50" alt="">
+                </a>
+                </div>
+            </p>
+        </div>
+    </div>
+</div>
+ 

@@ -4,20 +4,23 @@ site_description: "The 9th International Workshop on Joint Cloud Computing (JCC2
 
 pages:
 - Home: index.md
+- Intro: intro.md
 - Call For Papers: cfp.md
 - Organizers: organizers.md
 
-#copyright: "&#169; Donggang Cao"
+copyright: "&#169; <a href='http://jointcloud.trustie.net'>JCC Team</a>"
 
 repo_url: https://github.com/jointcloud/jcc2018.git
 
-#theme: 'bootstrap'
-
-theme_dir: 'bootstrap'
+theme_dir: 'spacelab'
 
 markdown_extensions:
  - admonition
-    #- nl2br
+    
+extra:
+      theme_inverse: true
+
 
 extra_css:
   - css/custom.css
+

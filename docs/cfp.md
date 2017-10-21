@@ -1,4 +1,4 @@
-# Call For Papers
+# JCC 2018 Call For Papers
 
 This workshop aims at soliciting innovative research findings in joint
 cloud computing. Topics of interest for technical papers include, but

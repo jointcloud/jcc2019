@@ -2,7 +2,7 @@
 
 {%- block  content %}
 
-    {% if page.toc.items|length > 1 %}
+    {% if page.toc.items|length >= 1 %}
     {% if page.toc.items[0].children|length > 1 %}
     <div class="col-md-3">{% include "toc.html" %}</div>
     {% endif %}
@@ -10,41 +10,4 @@
 
     <div class="col-md-9" role="main">{% include "content.html" %}</div>
 
-{%- endblock %}
-
-{%- block search_button %} 
-{%- endblock %}
-
-{%- block next_prev %}
-{%- endblock %}
-
-{%- block site_nav %}
-    <!-- Main navigation -->
-    <ul class="nav navbar-nav">
-    {% for nav_item in nav %}
-    {% if nav_item.children %}
-        <li class="dropdown{% if nav_item.active %} active{% endif %}">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ nav_item.title }} <b class="caret"></b></a>
-            <ul class="dropdown-menu">
-            {% for nav_item in nav_item.children %}
-                {% if not nav_item.title.startswith("_") %}
-                <li {% if nav_item.active %}class="active"{% endif %}>
-                    <a href="{{ nav_item.url }}">{{ nav_item.title }}</a>
-                </li>
-                {% endif %}
-            {% endfor %}
-            </ul>
-        </li>
-    {% else %}
-        {% if not nav_item.title.startswith("_") %}
-        <li {% if nav_item.active %}class="active"{% endif %}>
-            <a href="{{ nav_item.url }}">{{ nav_item.title }}</a>
-        </li>
-        {% endif %}
-    {% endif %}
-    {% endfor %}
-    </ul>
-{%- endblock %}
-
-{%- block footer %}
 {%- endblock %}

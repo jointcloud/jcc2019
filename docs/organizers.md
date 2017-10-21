@@ -1,4 +1,4 @@
-# Organizers
+# JCC 2018 Organizers
 
 ## Steering Committee
 
