@@ -27,7 +27,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                     <span class="fa-stack fa-3x">
-                    <img src="../img/jcc.png" height="90%" alt="JCC img">
+                    <img src="img/jcc.png" height="90%" alt="JCC img">
                     </span>
                 <h2 class="index-feature">What is JCC</h2>
                 </div>
@@ -85,7 +85,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                     <span class="fa-stack fa-2x">
-                    <img src="../img/nudt.png" height="90%" alt="">
+                    <img src="img/nudt.png" height="90%" alt="">
                     </span>
                 <h5 class="index-feature">National University of Defense Technology</h5>
                 </div>
@@ -97,7 +97,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                     <span class="fa-stack fa-2x">
-                    <img src="../img/tsu.png" height="90%" alt="">
+                    <img src="img/tsu.png" height="90%" alt="">
                     </span>
                 <h5 class="index-feature">Tsinghua University</h5>
                 </div>
@@ -109,7 +109,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                     <span class="fa-stack fa-2x">
-                    <img src="../img/beihang.png" height="90%" alt="">
+                    <img src="img/beihang.png" height="90%" alt="">
                     </span>
                 <h5 class="index-feature">Beihang University</h5>
                 </div>
@@ -121,7 +121,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                     <span class="fa-stack fa-2x">
-                    <img src="../img/sjtu.png" height="90%" alt="">
+                    <img src="img/sjtu.png" height="90%" alt="">
                     </span>
                 <h5 class="index-feature">Shaohai Jiao Tong University</h5>
                 </div>
@@ -133,7 +133,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                     <span class="fa-stack fa-2x">
-                    <img src="../img/pku.png" height="90%" alt="">
+                    <img src="img/pku.png" height="90%" alt="">
                     </span>
                 <h5 class="index-feature">Peking University</h5>
                 </div>
@@ -145,7 +145,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                     <span class="fa-stack fa-2x">
-                    <img src="../img/zhongshan.png" height="90%" alt="">
+                    <img src="img/zhongshan.png" height="90%" alt="">
                     </span>
                 <h5 class="index-feature">Sun Yat-sen University</h5>
                 </div>
@@ -161,7 +161,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                 <a href="http://www.iscas.cas.cn">
-                    <img src="../img/iscas.png" height="50" alt="">
+                    <img src="img/iscas.png" height="50" alt="">
                 </a>
                 </div>
             </p>
@@ -170,7 +170,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                 <a href="https://www.aliyun.com">
-                    <img src="../img/aliyun.png" height="50" alt="">
+                    <img src="img/aliyun.png" height="50" alt="">
                 </a>
                 </div>
             </p>
@@ -179,7 +179,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                 <a href="https://www.ucloud.cn">
-                    <img src="../img/ucloud.png" height="50" alt="">
+                    <img src="img/ucloud.png" height="50" alt="">
                 </a>
                 </div>
             </p>
@@ -188,7 +188,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                 <a href="http://www.ksyun.com">
-                    <img src="../img/jinshan.png" height="50" alt="">
+                    <img src="img/jinshan.png" height="50" alt="">
                 </a>
                 </div>
             </p>
@@ -197,7 +197,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                 <a href="http://www.cert.org.cn">
-                    <img src="../img/cncert.png" height="50" alt="">
+                    <img src="img/cncert.png" height="50" alt="">
                 </a>
                 </div>
             </p>
@@ -206,7 +206,7 @@
             <p  class="feature-link">
                 <div class="feature-icon feature-icon-static">
                 <a href="http://www.fnii.cn">
-                    <img src="../img/futurenet.png" height="50" alt="">
+                    <img src="img/futurenet.png" height="50" alt="">
                 </a>
                 </div>
             </p>
