@@ -6,7 +6,7 @@
         <p>colocated with <a
         href="http://sose-conference.net">SOSE 2018</a></p>
         <br>
-        <p> <a class="btn btn-primary btn-lg" href="/cfp" role="button">
+        <p> <a class="btn btn-primary btn-lg" href="cfp/" role="button">
         <i class="fa fa-paper-plane" aria-hidden="true"></i>
         Call for papers</a>
         &nbsp; &nbsp;&nbsp; 
