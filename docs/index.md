@@ -16,7 +16,11 @@
         Submit a paper</a>  </p>
 
         <br>
-        <p>Exploring cloud 2.0 and beyond</p>
+        <p>Exploring cloud 2.0 and beyond 
+        <a href="intro/">
+        <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+        </a>
+        </p>
 
 </div>
 
@@ -35,8 +39,7 @@
             <p> 
             Joint Cloud Computing (JCC) is a recent key project funded by <a href="http://www.most.gov.cn">China’s
             Ministry of Science and Technology</a> as a part of the <b>National
-            Key Program for Cloud Computing and Big Data</b>.  <a
-            href="intro/">More»</a>
+            Key Program for Cloud Computing and Big Data</b>.  
             </p>
  
         </div>
