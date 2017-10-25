@@ -37,7 +37,7 @@ Proceedings Author Guidelines at the following web page:
 For each accepted paper, at least one of the authors should be
 registered and present the paper on the workshop. The paper will be
 included in the conference proceedings and will be submitted for
-inclusion to IEEE Xplore as well as other Abstracting and Indexing (A&I)
+inclusion to **IEEE Xplore** as well as other Abstracting and Indexing (A&I)
 databases.
 
 Paper submission links: [https://easychair.org/conferences/?conf=jcc2018](https://easychair.org/conferences/?conf=jcc2018)
