@@ -14,19 +14,19 @@
 
 **Chairs:**
 
-* [Yongqiang Lyu](mailto:luyq@tsinghua.edu.cn), Tsinghua University 
-* [Donggang Cao](mailto:caodg@pku.edu.cn), Peking University
+* [Yongqiang Lyu](mailto:luyq@tsinghua.edu.cn), Tsinghua University, China
+* [Donggang Cao](mailto:caodg@pku.edu.cn), Peking University, China
 
 **Members:**
 
-* Vitaly Antonenko, Moscow State University
-* Haibo Chen, Shanghai Jiao Tong University
-* John Davies, University of Leeds UK
-* Tian Guo, Worcester Polytechnic Institute
-* Chunming Hu, Beihang University
-* Geyong Min, University of Exeter
-* Dapeng Oliver Wu, University of Florida
+* Vitaly Antonenko, Moscow State University, Russia
+* Haibo Chen, Shanghai Jiao Tong University, China
+* John Davies, University of Leeds, UK
+* Tian Guo, Worcester Polytechnic Institute, USA
+* Chunming Hu, Beihang University, China
+* Geyong Min, University of Exeter, UK
+* Dapeng Oliver Wu, University of Florida, USA
 * Paul Townend, University of Leeds, UK
-* Yijie Wang, National University of Defense Technology
-* Wei Wang, Chinese Academy of Science
-* ZiBing Zheng, Sun Yat-sen University
+* Yijie Wang, National University of Defense Technology, China
+* Wei Wang, Chinese Academy of Science, China
+* ZiBing Zheng, Sun Yat-sen University, China
