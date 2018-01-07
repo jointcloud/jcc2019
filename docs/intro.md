@@ -59,11 +59,18 @@ The previous edition of the workshop (2009-2015) is called “Workshop on
 Internet-based Virtual Computing Environment” (iVCE). The preceding
 workshops were held in :
 
-* [2017](http://nicexlab.com/JCC2017.htm) (Atlanta, USA)
-* 2015 (San Francisco, USA)
-* 2014 (Oxford, UK) 
-* 2013 (San Francisco, USA)
-* 2012 (Shenzhen, China)
+* [2017](http://nicexlab.com/JCC2017.htm) (Atlanta, USA), in [Proceedings of ICDCSW 2017](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7976700)
+
+* 2015 (San Francisco, USA), in [Proceedings of SOSE 2015](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7126273)
+
+* 2014 (Oxford, UK) , in [Proceedings of SOSE 2014](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6825321)
+
+* 2013 (San Francisco, USA), in [Proceedings of with SOSE 2013](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6524246)
+
+* 2012 (Shenzhen, China), in [Proceedings of ISORCW 2012](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6195322)
+
 * 2011 (Hong Kong, China) 
-* 2010 (Shanghai, China)
-* 2009 (Shenzhen, China)
+
+* 2010 (Shanghai, China), in [Proceedings of ICPADS 2010](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5692856)
+
+* 2009 (Shenzhen, China), in [Proceedings of ICPADS 2009](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5394475)

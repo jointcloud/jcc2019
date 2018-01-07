@@ -17,9 +17,7 @@ are not limited to:
 
 ## Important Dates
 
-* October 20, 2017 : Call-for-paper announcement available for publicity 
-* November 20, 2017 : Deadline for abstract submission
-* December 1, 2017 : Deadline for paper submission 
+* <strike>December 1, 2017</strike> <font color="red">December 8, 2017</font>: Deadline for paper submission 
 * January 15, 2018 : Notification of acceptance 
 * February 1, 2018 : Camera-ready of all accepted papers due  
 
