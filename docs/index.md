@@ -11,9 +11,9 @@
         <i class="fa fa-paper-plane" aria-hidden="true"></i>
         Call for papers</a>
         <a class="btn btn-default btn-lg"
-        href="https://easychair.org/conferences/?conf=jcc2018" role="button">
-        <i class="fa fa-cloud-upload" aria-hidden="true"></i>
-        Submit a paper</a>  </p>
+        href="program/" role="button">
+        <i class="fa fa-archive" aria-hidden="true"></i>
+        JCC 2018 Program</a>  </p>
 
         <br>
         <p>Exploring cloud 2.0 and beyond 

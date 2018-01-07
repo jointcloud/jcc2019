@@ -5,6 +5,7 @@ site_description: "The 9th International Workshop on Joint Cloud Computing (JCC2
 pages:
 - Home: index.md
 - Intro: intro.md
+- Program: program.md
 - Call For Papers: cfp.md
 - Organizers: organizers.md
 
