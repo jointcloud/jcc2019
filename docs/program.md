@@ -25,7 +25,7 @@
   <p class=MsoNormal align=center style='text-align:center;text-autospace:none'><b><span
   style='font-size:10.0pt;color:black'>JCC Joint Cloud Workshop Session I</span></b></p>
   <p class=MsoNormal align=center style='text-align:center;text-autospace:none'><b><span
-  style='font-size:10.0pt;color:black'>&nbsp;Session Chair: Donggang Cao</span></b></p>
+  style='font-size:10.0pt;color:black'>&nbsp;Session Chair: Yijie Wang</span></b></p>
   </td>
  </tr>
  <tr>
