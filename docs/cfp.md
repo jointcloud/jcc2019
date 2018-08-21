@@ -1,4 +1,4 @@
-# JCC 2018 Call For Papers
+# JCC 2019 Call For Papers
 
 This workshop aims at soliciting innovative research findings in joint
 cloud computing. Topics of interest for technical papers include, but
@@ -6,18 +6,18 @@ are not limited to:
 
 * Resource Management of Internet-based virtual computing environment (iVCE)
 * Elastic scheduling and allocation of cloud-crossing resources
-* Cloud-crossing virtualization, management, sharing, interaction and collaboration  
+* Cloud-crossing virtualization, management, sharing, interaction and collaboration
 * Reliability, availability, consistency, trust and security of joint cloud computing 
 * Inter-cloud big data processing, collaboration and management
 * Blockchain technologies and applications based on or for inter-cloud
-* Low-latency and high-throughput inter-cloud communication and networking
-* Monitoring and fault diagnosis of joint cloud computing  
+* Low-latency and high-throughput joint cloud communication and networking
+* Monitoring and fault diagnosis of joint cloud computing
 * Applications of joint cloud computing
-* Joint cloud computing architecture and economics  
+* Joint cloud computing architecture and economics
 
 ## Important Dates
 
-* <strike>December 1, 2017</strike> <font color="red">December 8, 2017</font>: Deadline for paper submission 
+* <font color="red">December 8, 2018 </font>: Deadline for paper submission 
 * January 15, 2018 : Notification of acceptance 
 * February 1, 2018 : Camera-ready of all accepted papers due  
 
