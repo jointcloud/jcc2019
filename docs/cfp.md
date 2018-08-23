@@ -1,5 +1,14 @@
 # JCC 2019 Call For Papers
 
+Established in 2009, JCC has increasingly been a major workshop for researchers and engineers to exchange and share 
+new ideas and results regarding distributed and parallel systems such as cluster resource management system, 
+virtualized cloud systems, big data processing, etc. The 10th IEEE International Joint Cloud Computing Workshop (JCC 2019)
+will be held in San Francisco, US in March, 2019. 
+
+
+
+## Topics of Interest
+
 This workshop aims at soliciting innovative research findings in joint
 cloud computing. Topics of interest for technical papers include, but
 are not limited to: 
@@ -19,7 +28,7 @@ are not limited to:
 
 * <font color="red">December 8, 2018 </font>: Deadline for paper submission 
 * January 15, 2018 : Notification of acceptance 
-* February 1, 2018 : Camera-ready of all accepted papers due  
+* February 1, 2018 : Camera-ready of all accepted papers due 
 
 ## Paper Submission Guidelines
 
