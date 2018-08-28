@@ -51,8 +51,7 @@
                 </div>
             </p>
             <p> 
-            JCC borrows
-            the ideas from airline alliances and aims at empowering the
+            The concept of JCC is inspired by ideas from airline alliances and aims at empowering the
             <b>cooperation among various cloud vendors to provide
             cross-cloud services</b> via <b>software definition</b>.
             </p>

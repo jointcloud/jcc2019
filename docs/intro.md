@@ -58,7 +58,7 @@ providers in the form of service-oriented computing.
 The previous edition of the workshop (2009-2015) is named "Internet-based Virtual Computing Environment” (iVCE). The historical
 records can be found in :
 
-* 2018 (Bamburg, Germany) in [Proceeding of SOSE 2018]()
+* 2018 (Bamburg, Germany) in [Proceeding of SOSE 2018](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8359116) 
 
 * 2017 (Atlanta, USA), in [Proceedings of ICDCSW 2017](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7976700)
 

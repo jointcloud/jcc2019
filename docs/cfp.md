@@ -1,8 +1,8 @@
 # JCC 2019 Call For Papers
 
-Established in 2009, JCC has increasingly been a major workshop for researchers and engineers to exchange and share 
+Established in 2009, JCC has increasingly been a major workshop for researchers and engineers to exchange 
 new ideas and results regarding distributed and parallel systems such as cluster resource management system, 
-virtualized cloud systems, big data processing, etc. The 10th IEEE International Joint Cloud Computing Workshop (JCC 2019)
+virtualized techniques, big data processing, etc. The 10th IEEE International Joint Cloud Computing Workshop (JCC 2019)
 will be held in San Francisco, US in March, 2019. 
 
 
@@ -13,22 +13,21 @@ This workshop aims at soliciting innovative research findings in joint
 cloud computing. Topics of interest for technical papers include, but
 are not limited to: 
 
-* Resource Management of Internet-based virtual computing environment (iVCE)
-* Elastic scheduling and allocation of cloud-crossing resources
-* Cloud-crossing virtualization, management, sharing, interaction and collaboration
+* Resource management and scheduling in joint cloud computing
+* Architecture, infrastructure, economics for joint cloud computing
+* Cloud-crossing virtualization, interaction and collaboration
 * Reliability, availability, consistency, trust and security of joint cloud computing 
-* Inter-cloud big data processing, collaboration and management
-* Blockchain technologies and applications based on or for inter-cloud
-* Low-latency and high-throughput joint cloud communication and networking
-* Monitoring and fault diagnosis of joint cloud computing
-* Applications of joint cloud computing
-* Joint cloud computing architecture and economics
+* Big data processing algorithms and platforms
+* Blockchain technologies and applications for joint cloud platforms and applications
+* Low cost communication and networking for joint cloud computing
+* System monitoring, fault diagnosis and fault tolerance in joint cloud computing
+* Machine learning based system optimisation to improve the efficiency of joint cloud computing
 
 ## Important Dates
 
-* <font color="red">December 8, 2018 </font>: Deadline for paper submission 
-* January 15, 2018 : Notification of acceptance 
-* February 1, 2018 : Camera-ready of all accepted papers due 
+* <font color="red">  DD, MM, 2018 </font>: Deadline for paper submission 
+* DD, MM, 2019 : Notification of acceptance 
+* DD, MM, 2019 : Camera-ready of all accepted papers due 
 
 ## Paper Submission Guidelines
 
@@ -47,4 +46,5 @@ included in the conference proceedings and will be submitted for
 inclusion to **IEEE Xplore** as well as other Abstracting and Indexing (A&I)
 databases.
 
-Paper submission links: [https://easychair.org/conferences/?conf=jcc2018](https://easychair.org/conferences/?conf=jcc2018)
+Paper submission links: 
+[https://easychair.org/conferences/?conf=jcc2018](https://easychair.org/conferences/?conf=jcc2018)
