@@ -1,6 +1,6 @@
-site_name: "JCC2018"
+site_name: "JCC2019"
 site_author: "Joint Cloud Computing Team"
-site_description: "The 9th International Workshop on Joint Cloud Computing (JCC2018)"
+site_description: "The 10th International Workshop on Joint Cloud Computing (JCC2019)"
 
 pages:
 - Home: index.md
@@ -11,7 +11,7 @@ pages:
 
 copyright: "&#169; <a href='http://jointcloud.trustie.net'>JCC Team</a>"
 
-repo_url: https://github.com/jointcloud/jcc2018.git
+repo_url: https://github.com/jointcloud/jcc2019.git
 
 theme_dir: 'spacelab'
 
