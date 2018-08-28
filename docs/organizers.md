@@ -1,4 +1,4 @@
-# JCC 2018 Organizers
+# JCC 2019 Organizers
 
 ## Program Committee
 
