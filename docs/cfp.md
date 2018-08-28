@@ -1,4 +1,4 @@
-# JCC 2019 Call For Papers
+# IEEE JCC 2019 Call For Papers
 
 Established in 2009, JCC has increasingly been a major workshop for researchers and engineers to exchange 
 new ideas and results regarding distributed and parallel systems such as cluster resource management system, 

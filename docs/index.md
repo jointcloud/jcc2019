@@ -1,9 +1,9 @@
 <div class="jumbotron">
-        <h1>JCC 2019</h1>
-        <h2>the 10th International Workshop on Joint Cloud Computing</h1>
+        <h1>IEEE JCC 2019</h1>
+        <h2>the 10th IEEE International Workshop on Joint Cloud Computing </h1>
         <br>
         <h4>XXX, 2019, San Francisco, US</h4>
-        <p>colocated with <a href="http://sose-conference.net">SOSE 2019</a></p>
+        <p>colocated with <a href="http://sose-conference.net">IEEE SOSE 2019</a></p>
         <br>
         <p> 
         <a class="btn btn-primary btn-lg" href="cfp/" role="button">
