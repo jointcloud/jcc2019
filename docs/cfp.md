@@ -2,7 +2,8 @@
 
 Established in 2009, JCC has increasingly been a major workshop for researchers and engineers to exchange 
 new ideas and results regarding distributed and parallel systems such as cluster resource management system, 
-virtualized techniques, big data processing, etc. The 10th IEEE International Joint Cloud Computing Workshop (JCC 2019)
+virtualized techniques, big data processing, fault-tolerant system design and implementation, etc.
+The 10th IEEE International Joint Cloud Computing Workshop (JCC 2019)
 will be held in San Francisco, US in March, 2019. 
 
 
@@ -18,10 +19,10 @@ are not limited to:
 * Cloud-crossing virtualization, interaction and collaboration
 * Reliability, availability, consistency, trust and security of joint cloud computing 
 * Big data processing algorithms and platforms
-* Blockchain technologies and applications for joint cloud platforms and applications
+* Blockchain technologies and applications for reliable service provisioning
 * Low cost communication and networking for joint cloud computing
 * System monitoring, fault diagnosis and fault tolerance in joint cloud computing
-* Machine learning based system optimisation to improve the efficiency of joint cloud computing
+* Machine learning based system optimisation for improved efficiency of joint cloud computing
 
 ## Important Dates
 

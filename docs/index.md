@@ -64,10 +64,7 @@
                 <h2 class="index-feature">JCC Project Team</h2>
             </p>
             <p> 
-            Including both top Chinese universities
-            like National University of Defense Technology, Tsinghua
-            University, Peking University, 
-            and major cloud vendors like <a
+            ranging from top Chinese universitie to major cloud vendors like <a
             href="https://www.aliyun.com">AliCloud</a>, <a
             href="https://www.ucloud.cn">UCloud</a>,
             <a href="http://www.ksyun.com">JinShanCloud</a>. 
