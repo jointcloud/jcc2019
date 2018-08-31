@@ -3,7 +3,7 @@
         <h2>the 10th IEEE International Workshop on Joint Cloud Computing </h1>
         <br>
         <h4>2019, San Francisco, US</h4>
-        <p>colocated with <a href="http://sose-conference.net">IEEE SOSE 2019</a></p>
+        <p>co-located with <a href="http://sose-conference.net">IEEE SOSE 2019</a></p>
         <br>
         <p> 
         <a class="btn btn-primary btn-lg" href="cfp/" role="button">
