@@ -48,4 +48,4 @@ inclusion to **IEEE Xplore** as well as other Abstracting and Indexing (A&I)
 databases.
 
 Paper submission links: 
-[https://easychair.org/conferences/?conf=jcc2018](https://easychair.org/conferences/?conf=jcc2018)
+[coming soon...](https://jointcloud.github.io/jcc2019/cfp)
