@@ -19,7 +19,9 @@
 * Paul Townend, University of Leeds, UK
 * Yijie Wang, National University of Defense Technology, China
 * Wei Wang, Chinese Academy of Science, China
-* ZiBing Zheng, Sun Yat-sen University, China
+* Zibing Zheng, Sun Yat-sen University, China
+* Zhenyu Wen, Newcastle University upon Tyon, UK
+* Tao Lin, EPFL, Switzerland 
 
 
 ## Steering Committee
