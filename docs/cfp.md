@@ -4,7 +4,7 @@ Established in 2009, JCC has increasingly been a major workshop for researchers 
 new ideas and results regarding distributed and parallel systems such as cluster resource management system, 
 virtualized techniques, big data processing, fault-tolerant system design and implementation, etc.
 The 10th IEEE International Joint Cloud Computing Workshop (JCC 2019)
-will be held in San Francisco, US in March, 2019. 
+will be held in San Francisco, USA, April, 2019. 
 
 
 
