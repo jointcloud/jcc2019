@@ -2,8 +2,8 @@
         <h1>IEEE JCC 2019</h1>
         <h2>the 10th IEEE International Workshop on Joint Cloud Computing </h1>
         <br>
-        <h4> 4th - 9th, April, 2019, San Francisco, USA </h4>
-        <p>co-located with <a href="http://sose-conference.net"> 13th IEEE-SOSE 2019</a></p>
+        <h4> 4th - 9th, April, 2019, East Bay, San Francisco, USA </h4>
+        <p>co-located with <a href="http://http://www.ieeesose.net/"> 13th IEEE SOSE 2019</a></p>
         <br>
         <p> 
         <a class="btn btn-primary btn-lg" href="cfp/" role="button">

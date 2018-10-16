@@ -4,7 +4,7 @@
 
 **Chairs:**
 
-* [Renyu Yang](mailto:r.yang1@leeds.ac.uk), University of Leeds/Edgetic Ltd., UK
+* [Renyu Yang](mailto:renyu.yang@edgetic.com), University of Leeds/Edgetic Ltd., UK
 * [Haibo Mi](mailto:haibo_mihb@126.com), National University of Defense Technology, China
 
 **Members:**
@@ -21,7 +21,8 @@
 * Wei Wang, Chinese Academy of Science, China
 * Zibing Zheng, Sun Yat-sen University, China
 * Zhenyu Wen, Newcastle University upon Tyon, UK
-* Tao Lin, EPFL, Switzerland 
+* Tao Lin, EPFL, Switzerland
+* Yongqiang Lyu, Tsinghua University, China 
 
 
 ## Steering Committee
