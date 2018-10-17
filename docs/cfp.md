@@ -48,9 +48,9 @@ inclusion to **IEEE Xplore** as well as other Abstracting and Indexing (A&I)
 databases.
 
 Paper submission links: 
-[coming soon...](https://jointcloud.github.io/jcc2019/cfp)
+[Easychair Link](https://easychair.org/conferences/?conf=jcc2019)
 
 
 ## Contact Information
 
-Feel free to contact us for any questions or suggestions:  [Renyu Yang](r.yang1@leeds.ac.uk) [Haibo Mi](haibo_mihb@126.com)
+Feel free to contact us for any questions or suggestions:  [Renyu Yang](r.yang1@leeds.ac.uk); [Haibo Mi](haibo_mihb@126.com)
