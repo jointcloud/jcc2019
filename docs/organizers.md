@@ -24,6 +24,8 @@
 * Yongqiang Lyu, Tsinghua University, China 
 * Peter Garraghan, Lancaster University, UK 
 * Xiaohui Guo, JD.com Inc., China
+* Song Yang, Beijing Institute of Technology, China
+
 
 ### Steering Committee
 
