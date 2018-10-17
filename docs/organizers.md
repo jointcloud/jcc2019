@@ -1,6 +1,6 @@
-# JCC 2019 Organizers
+## JCC 2019 Organizers
 
-## Program Committee
+### Program Committee
 
 **Chairs:**
 
@@ -10,6 +10,7 @@
 **Members:**
 
 * Vitaly Antonenko, Moscow State University, Russia
+* Haibo Chen, Shanghai Jiaotong University, China
 * Tian Guo, Worcester Polytechnic Institute, USA
 * Chunming Hu, Beihang University, China
 * Geyong Min, University of Exeter, UK
@@ -22,8 +23,9 @@
 * Tao Lin, EPFL, Switzerland
 * Yongqiang Lyu, Tsinghua University, China 
 * Peter Garraghan, Lancaster University, UK 
+* Xiaohui Guo, JD.com Inc., China
 
-## Steering Committee
+### Steering Committee
 
 * Huaimin Wang, National University of Defense Technology, China
 * Jie Xu, University of Leeds, UK
