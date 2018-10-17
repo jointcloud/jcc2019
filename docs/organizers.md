@@ -10,8 +10,6 @@
 **Members:**
 
 * Vitaly Antonenko, Moscow State University, Russia
-* Haibo Chen, Shanghai Jiao Tong University, China
-* John Davies, University of Leeds, UK
 * Tian Guo, Worcester Polytechnic Institute, USA
 * Chunming Hu, Beihang University, China
 * Geyong Min, University of Exeter, UK
@@ -23,7 +21,7 @@
 * Zhenyu Wen, Newcastle University upon Tyon, UK
 * Tao Lin, EPFL, Switzerland
 * Yongqiang Lyu, Tsinghua University, China 
-
+* Peter Garraghan, Lancaster University, UK 
 
 ## Steering Committee
 
