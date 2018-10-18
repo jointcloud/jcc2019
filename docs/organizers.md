@@ -25,7 +25,7 @@
 * Peter Garraghan, Lancaster University, UK 
 * Xiaohui Guo, JD.com Inc., China
 * Song Yang, Beijing Institute of Technology, China
-
+* Jieming Zhu, Huawei 2012 Lab, China
 
 ### Steering Committee
 
