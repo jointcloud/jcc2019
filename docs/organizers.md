@@ -14,7 +14,6 @@
 * Tian Guo, Worcester Polytechnic Institute, USA
 * Chunming Hu, Beihang University, China
 * Geyong Min, University of Exeter, UK
-* Dapeng Oliver Wu, University of Florida, USA
 * Paul Townend, University of Leeds, UK
 * Yijie Wang, National University of Defense Technology, China
 * Wei Wang, Chinese Academy of Science, China
@@ -26,6 +25,7 @@
 * Xiaohui Guo, JD.com Inc., China
 * Song Yang, Beijing Institute of Technology, China
 * Jieming Zhu, Huawei 2012 Lab, China
+* Lei Cui, Chinese Academy of Science, China 
 
 ### Steering Committee
 
