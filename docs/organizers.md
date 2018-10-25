@@ -26,6 +26,7 @@
 * Song Yang, Beijing Institute of Technology, China
 * Jieming Zhu, Huawei 2012 Lab, China
 * Lei Cui, Chinese Academy of Science, China 
+* Ashiq Anjum, University of Derby, UK
 
 ### Steering Committee
 
