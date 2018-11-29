@@ -26,9 +26,9 @@ are not limited to:
 
 ## Important Dates
 
-* <font color="red">  30th, Nov, 2018 </font>: Deadline for paper submission 
-* 5th, Jan, 2019 : Notification of acceptance 
-* 31th, Jan, 2019 : Camera-ready of all accepted papers due 
+*  <strike>30th Nov 2018 </strike> EXTENDED to <font color="red"> _14th Dec 2018_ </font>: Deadline for paper submission 
+* 5th Jan 2019 : Notification of acceptance 
+* 31th Jan 2019 : Camera-ready of all accepted papers due 
 
 ## Paper Submission Guidelines
 
