@@ -53,4 +53,4 @@ Paper submission links:
 
 ## Contact Information
 
-Feel free to contact us for any questions or suggestions:  [Renyu Yang](r.yang1@leeds.ac.uk); [Haibo Mi](haibo_mihb@126.com)
+Feel free to contact us for any questions or suggestions:  [Renyu Yang](renyu.yang@edgetic.com); [Haibo Mi](haibo_mihb@126.com)

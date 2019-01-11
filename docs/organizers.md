@@ -8,16 +8,8 @@
 * [Haibo Mi](mailto:haibo_mihb@126.com), National University of Defense Technology, China
 
 **Members:**
-
-* Vitaly Antonenko, Moscow State University, Russia
-* Haibo Chen, Shanghai Jiaotong University, China
-* Tian Guo, Worcester Polytechnic Institute, USA
-* Chunming Hu, Beihang University, China
-* Geyong Min, University of Exeter, UK
-* Paul Townend, University of Leeds, UK
 * Yijie Wang, National University of Defense Technology, China
 * Wei Wang, Chinese Academy of Science, China
-* Zibing Zheng, Sun Yat-sen University, China
 * Zhenyu Wen, Newcastle University upon Tyon, UK
 * Tao Lin, EPFL, Switzerland
 * Yongqiang Lyu, Tsinghua University, China 
@@ -27,6 +19,8 @@
 * Jieming Zhu, Huawei 2012 Lab, China
 * Lei Cui, Chinese Academy of Science, China 
 * Ashiq Anjum, University of Derby, UK
+* Bin Shi, Beihang University, China
+* Xue Ouyang, NUDT, China 
 
 ### Steering Committee
 
