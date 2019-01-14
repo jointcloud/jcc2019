@@ -8,6 +8,7 @@
 * [Haibo Mi](mailto:haibo_mihb@126.com), National University of Defense Technology, China
 
 **Members:**
+
 * Yijie Wang, National University of Defense Technology, China
 * Wei Wang, Chinese Academy of Science, China
 * Zhenyu Wen, Newcastle University upon Tyon, UK
