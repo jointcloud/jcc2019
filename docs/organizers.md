@@ -25,11 +25,11 @@
 
 ### Steering Committee
 
-* Huaimin Wang, National University of Defense Technology, China
-* Jie Xu, University of Leeds, UK
-* Jun Li, Tsinghua University, China
-* Yijie Wang, National University of Defense Technology, China
-* Haibo Chen, Shanghai Jiao Tong University, China
-* Donggang Cao, Peking University, China
+* Chair: Huaimin Wang, National University of Defense Technology, China
+* Member: Jie Xu, University of Leeds, UK
+* Member: Jun Li, Tsinghua University, China
+* Member: Yijie Wang, National University of Defense Technology, China
+* Member: Haibo Chen, Shanghai Jiao Tong University, China
+* Member: Donggang Cao, Peking University, China
 
 
