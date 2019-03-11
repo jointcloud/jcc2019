@@ -1,6 +1,7 @@
 ## JCC 2019 Program
 
----
+Please note that: before lunch break, JCC will have two parallel session tracks and only one track in the afternoon. 
+
 
 
 | **5th April**        | **JCC Sessions**              | **IEEE International Workshop On Joint Cloud Computing 2019**                                                                   |
@@ -16,16 +17,32 @@
 |                  | Paper ID: JCC-15                  | Title:SDVisor: Secure Debug Enclave with Hypervisor                                                                         |
 |                  |                                   | Authors: Zhen Hong, Zinan Li and Yubin Xia                                                                                  |
 |                  | Paper ID: JCC-9                   | Paper Title: GPU Scheduling for Short Tasks in Private Cloud                                                                |
+| 9:45am -11:00am  | **Session ID: Workshop S1-2** | **Session Title:  (Session Chair: Peichang Shi)**                                                                          |
+|                  | Paper ID: JCC-1           | Paper Title: LS4BUCC: A Low Overhead Storage Architecture for Blockchain Based Unmanned Collaborative Cognition System |
+|                  |                           | Authors: Xunhui Zhang, Huaimin Wang, Peichang Shi and Xiang Fu                                                         |
+|                  | Paper ID: JCC-2           | Paper Title: Joint Cloud Collaboration Mechanism between Vehicle Clouds Based on Blockchain                            |
+|                  |                           | Authors: Kai Yang, Xu Zhang, Yangchao Zhao, Qilin Fan, Qin Gao, Yongqiang Lyu, Hao Yin and Zhan Ma.                    |
+|                  | Paper ID: JCC-22          | Paper Title:  EtherShare: Share Information in JointCloud Environment Using Blockchain-based Smart Contracts           |
+|                  |                           | Authors: Zhen Hong, Zinan Li and Yubin Xia                                                                             |
+|                  | Paper ID: JCC-13          | Paper Title: Research on Key Technologies of Software-Defined Network Based on Blockchain                              |
+|                  |                           | Authors: Jialun Shao, Junming Ma, Yan Li, Bo An and Donggang Cao                                                       |
 |                  |                                   | Authors: Jialun Shao, Junming Ma, Yan Li, Bo An and Donggang Cao                                                            |
-| 11:00am -11:15am | Tea Break                         |                                                                                                                             |
-| 11:15am -12:30pm | **Session ID: Workshop S2-1**     | **Session Title:  (Session Chair: Wei Zhang)**                                                                                                   |
+| 11:00am -11:15am | **Tea Break**                         |                                                                                                                             |
+| 11:15am -12:30pm | **Session ID: Workshop S2-1**     | **Session Title:  (Session Chair: Wei Zhang)**                                                                              |
 |                  | Paper ID: JCC-19                  | Paper Title: SysOptic: a Fine-Grained Monitoring System for Virtual Machines Based on PMU                                   |
 |                  |                                   | Authors: Pin Liu, Renyu Yang, Jie Sun, Xudong Liu                                                                           |
 |                  | Paper ID: JCC-16                  | Paper Title: Efficient rendering of large-scale CAD models on a GPU virtualization architecture with model geometry metrics |
 |                  |                                   | Authors: Junjie Xue, Xiang Zhai and Huiyang Qu                                                                              |
 |                  | Paper ID: JCC-12                  | Paper Title: Undertow: An Intra-Kernel Isolation Mechanism for Hardware-Assisted Virtual Machines                           |
 |                  |                                   | Authors: Zihan Yang, Zeyu Mi and Yubin Xia                                                                                  |
-| 12:30pm-1:30pm   | Lunch                             |                                                                                                                             |
+| 11:15am -12:30pm | **Session ID: Workshop S2-2** | **Session Chair: Bo Ding**                                                                                                 |
+|                  | Paper ID: CCR-13          | Paper Title: Cloud Robotics Architecture: From Theory to Practices                                                     |
+|                  |                           | Authors: Huaxi Yulin Zhang, Lei Zhang                                                                                  |
+|                  | Paper ID: CCR-6           | Paper Title: Enabling Adaptive Intelligence in Cloud-augmented Multiple Robots Systems                                 |
+|                  |                           | Authors: Shieng Zhang, Yinggang Li, Bo Liu, Shupo Fu                                                                   |
+|                  | Paper ID: JCC-10          | Paper Title: An Emergency-Oriented Backpressure Scheduling Scheme for Internet of Vehicles                             |
+|                  |                           | Authors: Lishi Mei, Ning Xu and Bo Yin                                                                                 |
+| 12:30pm-1:30pm   | **Lunch**                             |                                                                                                                             |
 | 1:30pm -2:15pm   | **Session ID: Keynote S2**        | **Keynote Speaker:Fanjing Meng,Technical Staff ,research manager at IBM Research,China**                                        |
 |                  | Session Chair: Chair Name         | Topic:  (TO BE POSTED)                                                                                                      |
 | 2:15pm -3:30pm   | **Session ID: Workshop S3-1**         | **Session Title:  (Session Chair: Haibo Mi )**                                                                                                    |
